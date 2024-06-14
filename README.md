@@ -1,15 +1,3 @@
-## Assalamu Alaikum 👋
-
-- 🔭 I’m currently working on [GERP](https://app.genialulbd.com/)
-- 🌱 I’m currently learning Javascript, Nodejs, Reactjs, PHP, Laravel, Tailwind CSS and so on...
-- 😄 I like to Solve Problems and Healthy competition with Others. 
-- 💬 Ask me about Books.
-- 📫 How to reach me: asadece2k10@gmail.com
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadkuet&theme=blue-green&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadkuet)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
 ### Hi there 👋
 
 **asadkuet/asadkuet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
